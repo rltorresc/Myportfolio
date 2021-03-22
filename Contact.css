@@ -17,6 +17,7 @@
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
+  font-family: Raleway, sans-serif;
   margin: 0 862px 0 0;
 }
 
@@ -42,7 +43,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-family: Raleway, sans-serif;
     margin-top: 20px;
     margin-right: 662px;
     margin-bottom: 60px;
